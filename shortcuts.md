@@ -1,5 +1,5 @@
 
-## layout: page title: Essential IntelliJ IDEA Shortcuts
+## Essential IntelliJ IDEA Shortcuts
 
 IntelliJ IDEA is a powerful IDE, and knowing its keyboard shortcuts can significantly boost your productivity. This page provides a curated list of some of the most common and useful shortcuts for editing, navigation, refactoring, and more.
 
@@ -84,4 +84,5 @@ IntelliJ IDEA is a powerful IDE, and knowing its keyboard shortcuts can signific
 | **Push** | `Ctrl+Shift+K` | `Cmd+Shift+K` |
 | **VCS Operations Popup** | `Alt+`` | `Ctrl+V` |
 | **Show Diff** | `Ctrl+D` | `Cmd+D` |
+
 Remember that you can always customize these shortcuts in IntelliJ IDEA by going to `File` -> `Settings` -> `Keymap` (on Windows/Linux) or `IntelliJ IDEA` -> `Preferences` -> `Keymap` (on macOS).
